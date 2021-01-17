@@ -1,0 +1,17 @@
+﻿{
+  "buyerInfo": {
+    "BuyerName": "Vamshi",
+    "Mobile": "9676779010"
+  },
+  "Product": [
+    {
+      "ProductName": "One Plus 8T",
+      "Weight": "20 kg"
+    }
+  ],
+  "Address": {
+    "Street": "street 553",
+    "State": "telangana"
+  },
+  "OrderStatus": "Placed"
+}
